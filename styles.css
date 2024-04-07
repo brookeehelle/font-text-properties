@@ -96,7 +96,7 @@ nav a{
 	color: var(--dk-gray);
 	text-align: center;
 	text-decoration: none;
-	font-size 1.2rem;
+	font-size: 1.2rem;
 	font-weight: 600;
 }
 
@@ -143,6 +143,7 @@ dl, ol, main ul{
 
 dt{
 	/* make this font display in bold weight */
+	font-weight: bold;
 }
 
 dt::before{
